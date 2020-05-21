@@ -1,6 +1,4 @@
 # Factors effecting Borrower Rate
-## by Rashika Karki
-
 
 ## Dataset
 
@@ -27,5 +25,4 @@ The description of each column can be found [here](https://docs.google.com/sprea
 
 >So, after looking at all these insights we can see that year, homeowning status,loan amount, recommendations, loan categories and terms seems to influence the borrower rate.
 
-"# Prosper-Loan-Data-Analysis" 
-"# Prosper-Loan-Data-Analysis" 
+
