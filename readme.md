@@ -1,5 +1,7 @@
 # Factors effecting Borrower Rate
 
+[.ipynb file hosted](https://prosperloandata.tiiny.site/)
+
 ## Dataset
 
 
